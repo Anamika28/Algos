@@ -2,6 +2,11 @@
     Bubble sort (also known as sinking sort):
     A simple sorting algorithm that repeatedly compares pairs of adjacent
     elements and swaps their positions if they are in the wrong order
+    
+    Best Time Complexity: O(n), where n is the number of input elements
+    Worst Time Complexity: O(n*n), where n is the number of input elements.
+    
+    Auxilary Space: O(1)
 */
 
 #include <iostream>
