@@ -2,6 +2,9 @@
     Insertion sort:
     A simple sorting algorithm that builds the final sorted array (or list)
     one item at a time
+    
+    Time complexity: O(n*n), where n is the number of input elements.
+    Auxilary space: O(1)
 */
 
 #include <iostream>
